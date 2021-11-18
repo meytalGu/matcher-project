@@ -36,3 +36,7 @@ Given candidate id, retrieves all candidate's skills:
 Given a job id, retrieves the best 5 candidates which match the job (match title and match skill first):
 `http://127.0.0.1:8000/matcher/<jobId>/candidateFinder/`
 
+## Running Tests
+All matcher tests are in /mysite/matcher/tests.py .  
+From the command line, cd into maysite.py then run `python manage.py test matcher` in order to run the tests. 
+
