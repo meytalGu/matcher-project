@@ -1,7 +1,7 @@
 # matcher-project
 
 This repository contains a basic django matcher app. 
-
+We’ll assume you have Django installed already + Python 3.6 and later.
 ____
 
 ## Quickstart
