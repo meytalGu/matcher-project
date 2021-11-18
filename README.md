@@ -14,7 +14,8 @@ From the command line, cd into maysite.py then run the following commands:
 
 2. Run `python manage.py runserver` to start the development server.
 
-3. Visit http://127.0.0.1:8000/admin/ to create and update matcher objects (Skills, Jobs and Candidates).
+3. Visit http://127.0.0.1:8000/admin/ to create and update matcher objects (Skills, Jobs and Candidates).  
+      `Username: testUser  Password: thisistest1` 
 
 ## Start playing
 
